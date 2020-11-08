@@ -3,7 +3,7 @@ Bootcamp week 1 homework. Horiseon
 
 # Website preview
 
-![screenshot](Develop/assets/images/01-html-css-git-homework-demo.png)
+![screenshot](assets/images/01-html-css-git-homework-demo.png)
 
 ## Table of Contents
 * [Webpage Description](#Webpage-Description)
